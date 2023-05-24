@@ -257,12 +257,13 @@ main{
     text-align: center;
     font-size: 40px;
     font-style: italic;
+    max-width: 800px;
 }
 
 .redes{
     display: grid;
     justify-content: center;
-    grid-template-columns: 260px 260px 360px 360px;
+    grid-template-columns: 260px 260px 260px 260px;
     width: 80%;
     margin: 0 auto;
     padding: 30px;

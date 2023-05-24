@@ -5,7 +5,7 @@ const cars = [
         model:'R8',
         km:'19000km',
         year:'2017',
-        price:'U$D 470000',
+        price:'U$D 470.000',
         carImg:'./assets/cars/audi-r8.jpg'
     },
 
@@ -15,7 +15,7 @@ const cars = [
         model:'RS3',
         km:'33000km',
         year:'2018',
-        price:'U$D 105000',
+        price:'U$D 105.000',
         carImg:'./assets/cars/audi-rs3.jpg',
     },
 
@@ -25,7 +25,7 @@ const cars = [
         model:'TT S',
         km:'32000km',
         year:'2016',
-        price:'U$D 85000',
+        price:'U$D 85.000',
         carImg:'./assets/cars/audi-tts.jpg',
     },
 
@@ -35,7 +35,7 @@ const cars = [
         model:'430i',
         km:'0km',
         year:'2022',
-        price:'U$D 105000',
+        price:'U$D 105.000',
         carImg:'./assets/cars/bmw-430i.jpg',
     },
 
@@ -45,7 +45,7 @@ const cars = [
         model:'M2',
         km:'49000km',
         year:'2018',
-        price:'U$D 118000',
+        price:'U$D 118.000',
         carImg:'./assets/cars/bmw-m2.jpg',
     },
 
@@ -55,7 +55,7 @@ const cars = [
         model:'M4',
         km:'10000km',
         year:'2016',
-        price:'U$D 118000',
+        price:'U$D 118.000',
         carImg:'./assets/cars/bmw-m4.jpg',
     },
 
@@ -65,7 +65,7 @@ const cars = [
         model:'M5',
         km:'80000km',
         year:'2005',
-        price:'U$D 67000',
+        price:'U$D 67.000',
         carImg:'./assets/cars/bmw-m5.jpg',
     },
 
@@ -75,7 +75,7 @@ const cars = [
         model:'X6M',
         km:'19000km',
         year:'2017',
-        price:'U$D 135000',
+        price:'U$D 135.000',
         carImg:'./assets/cars/bmw-x6.jpg',
     },
 
@@ -85,7 +85,7 @@ const cars = [
         model:'488 GTB',
         km:'6000km',
         year:'2018',
-        price:'U$D 970000',
+        price:'U$D 970.000',
         carImg:'./assets/cars/ferrari-488gtb.jpg',
     },
 ]
